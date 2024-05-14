@@ -11,7 +11,7 @@ from app.core import security
 from app.core.config import settings
 from app.core.security import get_password_hash
 from app.debug_print.main import debug_print
-from app.models import Message, NewPassword, Token, UserOut, UserUpdate
+from app.models.models import Message, NewPassword, Token, UserOut, UserUpdate
 from app.utils import (
     generate_password_reset_token,
     generate_reset_password_email,
@@ -32,6 +32,7 @@ def login_access_token(
     user = crud.authenticate(
         session=session, email=form_data.username, password=form_data.password
     )
+    debug_print(user)
     if not user:
         raise HTTPException(status_code=400, detail="Incorrect email or password")
     elif not user.is_active:

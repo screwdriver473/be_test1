@@ -19,7 +19,7 @@ fileConfig(config.config_file_name)
 # target_metadata = None
 
 from app.debug_print.main import debug_print
-from app.models import SQLModel  # noqa
+from app.models.models import SQLModel  # noqa
 
 target_metadata = SQLModel.metadata
 

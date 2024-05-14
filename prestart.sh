@@ -12,6 +12,8 @@ python backend_pre_start.py
 cd ..
 
 # Run migrations
+# it generates a file in app/alembic/versions
+alembic revision --autogenerate -m "added patient tables"
 alembic upgrade head
 
 # Create initial data in DB

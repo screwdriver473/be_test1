@@ -3983,3 +3983,1093 @@
 
 ==> 2024-03-21 11:17:15 - C:\Users\vbolla\ReactJS\TypeScript\backend\app\crud.py:38 (get_user_by_email) - v@gmail.com
 
+==> 2024-03-21 15:20:31 - C:\Users\vbolla\ReactJS\TypeScript\backend\app\core\config.py:130 (<module>) - Settings with attributes: {   'ACCESS_TOKEN_EXPIRE_MINUTES': 11520,
+    'API_PREFIX_STR': '/api/v1',
+    'BACKEND_CORS_ORIGINS': [   Url('http://localhost/'),
+                                Url('http://localhost:5173/'),
+                                Url('https://localhost/'),
+                                Url('https://localhost:5173/'),
+                                Url('http://localhost.venkatesh.com/')],
+    'DEBUG_LOG': True,
+    'DEBUG_LOG_FILE_NAME': './logs/backend_debug_log.txt',
+    'DEBUG_LOG_IN_FILE': True,
+    'DEBUG_LOG_ON_CONSOLE': True,
+    'DOMAIN': 'localhost',
+    'EMAILS_FROM_EMAIL': 'info@example.com',
+    'EMAILS_FROM_NAME': 'Backend '
+                        'API '
+                        'by '
+                        'Venkatesh',
+    'EMAIL_RESET_TOKEN_EXPIRE_HOURS': 48,
+    'EMAIL_TEST_USER': 'test@example.com',
+    'ENVIRONMENT': 'local',
+    'FIRST_SUPERUSER': 'admin@example.com',
+    'FIRST_SUPERUSER_PASSWORD': 'admin@123!',
+    'POSTGRES_DB': 'app',
+    'POSTGRES_PASSWORD': 'postgres',
+    'POSTGRES_PORT': 5432,
+    'POSTGRES_SERVER': 'localhost',
+    'POSTGRES_USER': 'postgres',
+    'PROJECT_NAME': 'Backend '
+                    'API '
+                    'by '
+                    'Venkatesh',
+    'SECRET_KEY': 'CMFlSIgyJxDcvsXnoi8fFuxg0BkRX7DGx0Mj6ivMVJo',
+    'SENTRY_DSN': None,
+    'SMTP_HOST': 'localhost',
+    'SMTP_PASSWORD': '12345!',
+    'SMTP_PORT': 587,
+    'SMTP_SSL': False,
+    'SMTP_TLS': True,
+    'SMTP_USER': 'vbolla',
+    'USERS_OPEN_REGISTRATION': True}
+
+==> 2024-03-22 10:16:57 - C:\Users\vbolla\ReactJS\TypeScript\backend\app\core\config.py:130 (<module>) - Settings with attributes: {   'ACCESS_TOKEN_EXPIRE_MINUTES': 11520,
+    'API_PREFIX_STR': '/api/v1',
+    'BACKEND_CORS_ORIGINS': [   Url('http://localhost/'),
+                                Url('http://localhost:5173/'),
+                                Url('https://localhost/'),
+                                Url('https://localhost:5173/'),
+                                Url('http://localhost.venkatesh.com/')],
+    'DEBUG_LOG': True,
+    'DEBUG_LOG_FILE_NAME': './logs/backend_debug_log.txt',
+    'DEBUG_LOG_IN_FILE': True,
+    'DEBUG_LOG_ON_CONSOLE': True,
+    'DOMAIN': 'localhost',
+    'EMAILS_FROM_EMAIL': 'info@example.com',
+    'EMAILS_FROM_NAME': 'Backend '
+                        'API '
+                        'by '
+                        'Venkatesh',
+    'EMAIL_RESET_TOKEN_EXPIRE_HOURS': 48,
+    'EMAIL_TEST_USER': 'test@example.com',
+    'ENVIRONMENT': 'local',
+    'FIRST_SUPERUSER': 'admin@example.com',
+    'FIRST_SUPERUSER_PASSWORD': 'admin@123!',
+    'POSTGRES_DB': 'app',
+    'POSTGRES_PASSWORD': 'postgres',
+    'POSTGRES_PORT': 5432,
+    'POSTGRES_SERVER': 'localhost',
+    'POSTGRES_USER': 'postgres',
+    'PROJECT_NAME': 'Backend '
+                    'API '
+                    'by '
+                    'Venkatesh',
+    'SECRET_KEY': 'CMFlSIgyJxDcvsXnoi8fFuxg0BkRX7DGx0Mj6ivMVJo',
+    'SENTRY_DSN': None,
+    'SMTP_HOST': 'localhost',
+    'SMTP_PASSWORD': '12345!',
+    'SMTP_PORT': 587,
+    'SMTP_SSL': False,
+    'SMTP_TLS': True,
+    'SMTP_USER': 'vbolla',
+    'USERS_OPEN_REGISTRATION': True}
+
+==> 2024-03-22 10:17:01 - C:\Users\vbolla\ReactJS\TypeScript\backend\app\core\config.py:130 (<module>) - Settings with attributes: {   'ACCESS_TOKEN_EXPIRE_MINUTES': 11520,
+    'API_PREFIX_STR': '/api/v1',
+    'BACKEND_CORS_ORIGINS': [   Url('http://localhost/'),
+                                Url('http://localhost:5173/'),
+                                Url('https://localhost/'),
+                                Url('https://localhost:5173/'),
+                                Url('http://localhost.venkatesh.com/')],
+    'DEBUG_LOG': True,
+    'DEBUG_LOG_FILE_NAME': './logs/backend_debug_log.txt',
+    'DEBUG_LOG_IN_FILE': True,
+    'DEBUG_LOG_ON_CONSOLE': True,
+    'DOMAIN': 'localhost',
+    'EMAILS_FROM_EMAIL': 'info@example.com',
+    'EMAILS_FROM_NAME': 'Backend '
+                        'API '
+                        'by '
+                        'Venkatesh',
+    'EMAIL_RESET_TOKEN_EXPIRE_HOURS': 48,
+    'EMAIL_TEST_USER': 'test@example.com',
+    'ENVIRONMENT': 'local',
+    'FIRST_SUPERUSER': 'admin@example.com',
+    'FIRST_SUPERUSER_PASSWORD': 'admin@123!',
+    'POSTGRES_DB': 'app',
+    'POSTGRES_PASSWORD': 'postgres',
+    'POSTGRES_PORT': 5432,
+    'POSTGRES_SERVER': 'localhost',
+    'POSTGRES_USER': 'postgres',
+    'PROJECT_NAME': 'Backend '
+                    'API '
+                    'by '
+                    'Venkatesh',
+    'SECRET_KEY': 'CMFlSIgyJxDcvsXnoi8fFuxg0BkRX7DGx0Mj6ivMVJo',
+    'SENTRY_DSN': None,
+    'SMTP_HOST': 'localhost',
+    'SMTP_PASSWORD': '12345!',
+    'SMTP_PORT': 587,
+    'SMTP_SSL': False,
+    'SMTP_TLS': True,
+    'SMTP_USER': 'vbolla',
+    'USERS_OPEN_REGISTRATION': True}
+
+==> 2024-03-22 10:18:08 - C:\Users\vbolla\ReactJS\TypeScript\backend\app\core\config.py:130 (<module>) - Settings with attributes: {   'ACCESS_TOKEN_EXPIRE_MINUTES': 11520,
+    'API_PREFIX_STR': '/api/v1',
+    'BACKEND_CORS_ORIGINS': [   Url('http://localhost/'),
+                                Url('http://localhost:5173/'),
+                                Url('https://localhost/'),
+                                Url('https://localhost:5173/'),
+                                Url('http://localhost.venkatesh.com/')],
+    'DEBUG_LOG': True,
+    'DEBUG_LOG_FILE_NAME': './logs/backend_debug_log.txt',
+    'DEBUG_LOG_IN_FILE': True,
+    'DEBUG_LOG_ON_CONSOLE': True,
+    'DOMAIN': 'localhost',
+    'EMAILS_FROM_EMAIL': 'info@example.com',
+    'EMAILS_FROM_NAME': 'Backend '
+                        'API '
+                        'by '
+                        'Venkatesh',
+    'EMAIL_RESET_TOKEN_EXPIRE_HOURS': 48,
+    'EMAIL_TEST_USER': 'test@example.com',
+    'ENVIRONMENT': 'local',
+    'FIRST_SUPERUSER': 'admin@example.com',
+    'FIRST_SUPERUSER_PASSWORD': 'admin@123!',
+    'POSTGRES_DB': 'app',
+    'POSTGRES_PASSWORD': 'postgres',
+    'POSTGRES_PORT': 5432,
+    'POSTGRES_SERVER': 'localhost',
+    'POSTGRES_USER': 'postgres',
+    'PROJECT_NAME': 'Backend '
+                    'API '
+                    'by '
+                    'Venkatesh',
+    'SECRET_KEY': 'CMFlSIgyJxDcvsXnoi8fFuxg0BkRX7DGx0Mj6ivMVJo',
+    'SENTRY_DSN': None,
+    'SMTP_HOST': 'localhost',
+    'SMTP_PASSWORD': '12345!',
+    'SMTP_PORT': 587,
+    'SMTP_SSL': False,
+    'SMTP_TLS': True,
+    'SMTP_USER': 'vbolla',
+    'USERS_OPEN_REGISTRATION': True}
+
+==> 2024-03-22 10:18:13 - C:\Users\vbolla\ReactJS\TypeScript\backend\app\core\config.py:130 (<module>) - Settings with attributes: {   'ACCESS_TOKEN_EXPIRE_MINUTES': 11520,
+    'API_PREFIX_STR': '/api/v1',
+    'BACKEND_CORS_ORIGINS': [   Url('http://localhost/'),
+                                Url('http://localhost:5173/'),
+                                Url('https://localhost/'),
+                                Url('https://localhost:5173/'),
+                                Url('http://localhost.venkatesh.com/')],
+    'DEBUG_LOG': True,
+    'DEBUG_LOG_FILE_NAME': './logs/backend_debug_log.txt',
+    'DEBUG_LOG_IN_FILE': True,
+    'DEBUG_LOG_ON_CONSOLE': True,
+    'DOMAIN': 'localhost',
+    'EMAILS_FROM_EMAIL': 'info@example.com',
+    'EMAILS_FROM_NAME': 'Backend '
+                        'API '
+                        'by '
+                        'Venkatesh',
+    'EMAIL_RESET_TOKEN_EXPIRE_HOURS': 48,
+    'EMAIL_TEST_USER': 'test@example.com',
+    'ENVIRONMENT': 'local',
+    'FIRST_SUPERUSER': 'admin@example.com',
+    'FIRST_SUPERUSER_PASSWORD': 'admin@123!',
+    'POSTGRES_DB': 'app',
+    'POSTGRES_PASSWORD': 'postgres',
+    'POSTGRES_PORT': 5432,
+    'POSTGRES_SERVER': 'localhost',
+    'POSTGRES_USER': 'postgres',
+    'PROJECT_NAME': 'Backend '
+                    'API '
+                    'by '
+                    'Venkatesh',
+    'SECRET_KEY': 'CMFlSIgyJxDcvsXnoi8fFuxg0BkRX7DGx0Mj6ivMVJo',
+    'SENTRY_DSN': None,
+    'SMTP_HOST': 'localhost',
+    'SMTP_PASSWORD': '12345!',
+    'SMTP_PORT': 587,
+    'SMTP_SSL': False,
+    'SMTP_TLS': True,
+    'SMTP_USER': 'vbolla',
+    'USERS_OPEN_REGISTRATION': True}
+
+==> 2024-03-22 10:46:57 - C:\Users\vbolla\ReactJS\TypeScript\backend\app\core\config.py:130 (<module>) - Settings with attributes: {   'ACCESS_TOKEN_EXPIRE_MINUTES': 11520,
+    'API_PREFIX_STR': '/api/v1',
+    'BACKEND_CORS_ORIGINS': [   Url('http://localhost/'),
+                                Url('http://localhost:5173/'),
+                                Url('https://localhost/'),
+                                Url('https://localhost:5173/'),
+                                Url('http://localhost.venkatesh.com/')],
+    'DEBUG_LOG': True,
+    'DEBUG_LOG_FILE_NAME': './logs/backend_debug_log.txt',
+    'DEBUG_LOG_IN_FILE': True,
+    'DEBUG_LOG_ON_CONSOLE': True,
+    'DOMAIN': 'localhost',
+    'EMAILS_FROM_EMAIL': 'info@example.com',
+    'EMAILS_FROM_NAME': 'Backend '
+                        'API '
+                        'by '
+                        'Venkatesh',
+    'EMAIL_RESET_TOKEN_EXPIRE_HOURS': 48,
+    'EMAIL_TEST_USER': 'test@example.com',
+    'ENVIRONMENT': 'local',
+    'FIRST_SUPERUSER': 'admin@example.com',
+    'FIRST_SUPERUSER_PASSWORD': 'admin@123!',
+    'POSTGRES_DB': 'app',
+    'POSTGRES_PASSWORD': 'postgres',
+    'POSTGRES_PORT': 5432,
+    'POSTGRES_SERVER': 'localhost',
+    'POSTGRES_USER': 'postgres',
+    'PROJECT_NAME': 'Backend '
+                    'API '
+                    'by '
+                    'Venkatesh',
+    'SECRET_KEY': 'CMFlSIgyJxDcvsXnoi8fFuxg0BkRX7DGx0Mj6ivMVJo',
+    'SENTRY_DSN': None,
+    'SMTP_HOST': 'localhost',
+    'SMTP_PASSWORD': '12345!',
+    'SMTP_PORT': 587,
+    'SMTP_SSL': False,
+    'SMTP_TLS': True,
+    'SMTP_USER': 'vbolla',
+    'USERS_OPEN_REGISTRATION': True}
+
+==> 2024-03-22 10:47:42 - C:\Users\vbolla\ReactJS\TypeScript\backend\app\core\config.py:130 (<module>) - Settings with attributes: {   'ACCESS_TOKEN_EXPIRE_MINUTES': 11520,
+    'API_PREFIX_STR': '/api/v1',
+    'BACKEND_CORS_ORIGINS': [   Url('http://localhost/'),
+                                Url('http://localhost:5173/'),
+                                Url('https://localhost/'),
+                                Url('https://localhost:5173/'),
+                                Url('http://localhost.venkatesh.com/')],
+    'DEBUG_LOG': True,
+    'DEBUG_LOG_FILE_NAME': './logs/backend_debug_log.txt',
+    'DEBUG_LOG_IN_FILE': True,
+    'DEBUG_LOG_ON_CONSOLE': True,
+    'DOMAIN': 'localhost',
+    'EMAILS_FROM_EMAIL': 'info@example.com',
+    'EMAILS_FROM_NAME': 'Backend '
+                        'API '
+                        'by '
+                        'Venkatesh',
+    'EMAIL_RESET_TOKEN_EXPIRE_HOURS': 48,
+    'EMAIL_TEST_USER': 'test@example.com',
+    'ENVIRONMENT': 'local',
+    'FIRST_SUPERUSER': 'admin@example.com',
+    'FIRST_SUPERUSER_PASSWORD': 'admin@123!',
+    'POSTGRES_DB': 'app',
+    'POSTGRES_PASSWORD': 'postgres',
+    'POSTGRES_PORT': 5432,
+    'POSTGRES_SERVER': 'localhost',
+    'POSTGRES_USER': 'postgres',
+    'PROJECT_NAME': 'Backend '
+                    'API '
+                    'by '
+                    'Venkatesh',
+    'SECRET_KEY': 'CMFlSIgyJxDcvsXnoi8fFuxg0BkRX7DGx0Mj6ivMVJo',
+    'SENTRY_DSN': None,
+    'SMTP_HOST': 'localhost',
+    'SMTP_PASSWORD': '12345!',
+    'SMTP_PORT': 587,
+    'SMTP_SSL': False,
+    'SMTP_TLS': True,
+    'SMTP_USER': 'vbolla',
+    'USERS_OPEN_REGISTRATION': True}
+
+==> 2024-03-22 10:51:37 - C:\Users\vbolla\ReactJS\TypeScript\backend\app\core\config.py:130 (<module>) - Settings with attributes: {   'ACCESS_TOKEN_EXPIRE_MINUTES': 11520,
+    'API_PREFIX_STR': '/api/v1',
+    'BACKEND_CORS_ORIGINS': [   Url('http://localhost/'),
+                                Url('http://localhost:5173/'),
+                                Url('https://localhost/'),
+                                Url('https://localhost:5173/'),
+                                Url('http://localhost.venkatesh.com/')],
+    'DEBUG_LOG': True,
+    'DEBUG_LOG_FILE_NAME': './logs/backend_debug_log.txt',
+    'DEBUG_LOG_IN_FILE': True,
+    'DEBUG_LOG_ON_CONSOLE': True,
+    'DOMAIN': 'localhost',
+    'EMAILS_FROM_EMAIL': 'info@example.com',
+    'EMAILS_FROM_NAME': 'Backend '
+                        'API '
+                        'by '
+                        'Venkatesh',
+    'EMAIL_RESET_TOKEN_EXPIRE_HOURS': 48,
+    'EMAIL_TEST_USER': 'test@example.com',
+    'ENVIRONMENT': 'local',
+    'FIRST_SUPERUSER': 'admin@example.com',
+    'FIRST_SUPERUSER_PASSWORD': 'admin@123!',
+    'POSTGRES_DB': 'app',
+    'POSTGRES_PASSWORD': 'postgres',
+    'POSTGRES_PORT': 5432,
+    'POSTGRES_SERVER': 'localhost',
+    'POSTGRES_USER': 'postgres',
+    'PROJECT_NAME': 'Backend '
+                    'API '
+                    'by '
+                    'Venkatesh',
+    'SECRET_KEY': 'CMFlSIgyJxDcvsXnoi8fFuxg0BkRX7DGx0Mj6ivMVJo',
+    'SENTRY_DSN': None,
+    'SMTP_HOST': 'localhost',
+    'SMTP_PASSWORD': '12345!',
+    'SMTP_PORT': 587,
+    'SMTP_SSL': False,
+    'SMTP_TLS': True,
+    'SMTP_USER': 'vbolla',
+    'USERS_OPEN_REGISTRATION': True}
+
+==> 2024-03-22 10:59:05 - C:\Users\vbolla\ReactJS\TypeScript\backend\app\core\config.py:130 (<module>) - Settings with attributes: {   'ACCESS_TOKEN_EXPIRE_MINUTES': 11520,
+    'API_PREFIX_STR': '/api/v1',
+    'BACKEND_CORS_ORIGINS': [   Url('http://localhost/'),
+                                Url('http://localhost:5173/'),
+                                Url('https://localhost/'),
+                                Url('https://localhost:5173/'),
+                                Url('http://localhost.venkatesh.com/')],
+    'DEBUG_LOG': True,
+    'DEBUG_LOG_FILE_NAME': './logs/backend_debug_log.txt',
+    'DEBUG_LOG_IN_FILE': True,
+    'DEBUG_LOG_ON_CONSOLE': True,
+    'DOMAIN': 'localhost',
+    'EMAILS_FROM_EMAIL': 'info@example.com',
+    'EMAILS_FROM_NAME': 'Backend '
+                        'API '
+                        'by '
+                        'Venkatesh',
+    'EMAIL_RESET_TOKEN_EXPIRE_HOURS': 48,
+    'EMAIL_TEST_USER': 'test@example.com',
+    'ENVIRONMENT': 'local',
+    'FIRST_SUPERUSER': 'admin@example.com',
+    'FIRST_SUPERUSER_PASSWORD': 'admin@123!',
+    'POSTGRES_DB': 'app',
+    'POSTGRES_PASSWORD': 'postgres',
+    'POSTGRES_PORT': 5432,
+    'POSTGRES_SERVER': 'localhost',
+    'POSTGRES_USER': 'postgres',
+    'PROJECT_NAME': 'Backend '
+                    'API '
+                    'by '
+                    'Venkatesh',
+    'SECRET_KEY': 'CMFlSIgyJxDcvsXnoi8fFuxg0BkRX7DGx0Mj6ivMVJo',
+    'SENTRY_DSN': None,
+    'SMTP_HOST': 'localhost',
+    'SMTP_PASSWORD': '12345!',
+    'SMTP_PORT': 587,
+    'SMTP_SSL': False,
+    'SMTP_TLS': True,
+    'SMTP_USER': 'vbolla',
+    'USERS_OPEN_REGISTRATION': True}
+
+==> 2024-03-22 11:01:00 - C:\Users\vbolla\ReactJS\TypeScript\backend\app\core\config.py:130 (<module>) - Settings with attributes: {   'ACCESS_TOKEN_EXPIRE_MINUTES': 11520,
+    'API_PREFIX_STR': '/api/v1',
+    'BACKEND_CORS_ORIGINS': [   Url('http://localhost/'),
+                                Url('http://localhost:5173/'),
+                                Url('https://localhost/'),
+                                Url('https://localhost:5173/'),
+                                Url('http://localhost.venkatesh.com/')],
+    'DEBUG_LOG': True,
+    'DEBUG_LOG_FILE_NAME': './logs/backend_debug_log.txt',
+    'DEBUG_LOG_IN_FILE': True,
+    'DEBUG_LOG_ON_CONSOLE': True,
+    'DOMAIN': 'localhost',
+    'EMAILS_FROM_EMAIL': 'info@example.com',
+    'EMAILS_FROM_NAME': 'Backend '
+                        'API '
+                        'by '
+                        'Venkatesh',
+    'EMAIL_RESET_TOKEN_EXPIRE_HOURS': 48,
+    'EMAIL_TEST_USER': 'test@example.com',
+    'ENVIRONMENT': 'local',
+    'FIRST_SUPERUSER': 'admin@example.com',
+    'FIRST_SUPERUSER_PASSWORD': 'admin@123!',
+    'POSTGRES_DB': 'app',
+    'POSTGRES_PASSWORD': 'postgres',
+    'POSTGRES_PORT': 5432,
+    'POSTGRES_SERVER': 'localhost',
+    'POSTGRES_USER': 'postgres',
+    'PROJECT_NAME': 'Backend '
+                    'API '
+                    'by '
+                    'Venkatesh',
+    'SECRET_KEY': 'CMFlSIgyJxDcvsXnoi8fFuxg0BkRX7DGx0Mj6ivMVJo',
+    'SENTRY_DSN': None,
+    'SMTP_HOST': 'localhost',
+    'SMTP_PASSWORD': '12345!',
+    'SMTP_PORT': 587,
+    'SMTP_SSL': False,
+    'SMTP_TLS': True,
+    'SMTP_USER': 'vbolla',
+    'USERS_OPEN_REGISTRATION': True}
+
+==> 2024-03-22 11:04:32 - C:\Users\vbolla\ReactJS\TypeScript\backend\app\core\config.py:130 (<module>) - Settings with attributes: {   'ACCESS_TOKEN_EXPIRE_MINUTES': 11520,
+    'API_PREFIX_STR': '/api/v1',
+    'BACKEND_CORS_ORIGINS': [   Url('http://localhost/'),
+                                Url('http://localhost:5173/'),
+                                Url('https://localhost/'),
+                                Url('https://localhost:5173/'),
+                                Url('http://localhost.venkatesh.com/')],
+    'DEBUG_LOG': True,
+    'DEBUG_LOG_FILE_NAME': './logs/backend_debug_log.txt',
+    'DEBUG_LOG_IN_FILE': True,
+    'DEBUG_LOG_ON_CONSOLE': True,
+    'DOMAIN': 'localhost',
+    'EMAILS_FROM_EMAIL': 'info@example.com',
+    'EMAILS_FROM_NAME': 'Backend '
+                        'API '
+                        'by '
+                        'Venkatesh',
+    'EMAIL_RESET_TOKEN_EXPIRE_HOURS': 48,
+    'EMAIL_TEST_USER': 'test@example.com',
+    'ENVIRONMENT': 'local',
+    'FIRST_SUPERUSER': 'admin@example.com',
+    'FIRST_SUPERUSER_PASSWORD': 'admin@123!',
+    'POSTGRES_DB': 'app',
+    'POSTGRES_PASSWORD': 'postgres',
+    'POSTGRES_PORT': 5432,
+    'POSTGRES_SERVER': 'localhost',
+    'POSTGRES_USER': 'postgres',
+    'PROJECT_NAME': 'Backend '
+                    'API '
+                    'by '
+                    'Venkatesh',
+    'SECRET_KEY': 'CMFlSIgyJxDcvsXnoi8fFuxg0BkRX7DGx0Mj6ivMVJo',
+    'SENTRY_DSN': None,
+    'SMTP_HOST': 'localhost',
+    'SMTP_PASSWORD': '12345!',
+    'SMTP_PORT': 587,
+    'SMTP_SSL': False,
+    'SMTP_TLS': True,
+    'SMTP_USER': 'vbolla',
+    'USERS_OPEN_REGISTRATION': True}
+
+==> 2024-03-22 11:04:55 - C:\Users\vbolla\ReactJS\TypeScript\backend\app\core\config.py:130 (<module>) - Settings with attributes: {   'ACCESS_TOKEN_EXPIRE_MINUTES': 11520,
+    'API_PREFIX_STR': '/api/v1',
+    'BACKEND_CORS_ORIGINS': [   Url('http://localhost/'),
+                                Url('http://localhost:5173/'),
+                                Url('https://localhost/'),
+                                Url('https://localhost:5173/'),
+                                Url('http://localhost.venkatesh.com/')],
+    'DEBUG_LOG': True,
+    'DEBUG_LOG_FILE_NAME': './logs/backend_debug_log.txt',
+    'DEBUG_LOG_IN_FILE': True,
+    'DEBUG_LOG_ON_CONSOLE': True,
+    'DOMAIN': 'localhost',
+    'EMAILS_FROM_EMAIL': 'info@example.com',
+    'EMAILS_FROM_NAME': 'Backend '
+                        'API '
+                        'by '
+                        'Venkatesh',
+    'EMAIL_RESET_TOKEN_EXPIRE_HOURS': 48,
+    'EMAIL_TEST_USER': 'test@example.com',
+    'ENVIRONMENT': 'local',
+    'FIRST_SUPERUSER': 'admin@example.com',
+    'FIRST_SUPERUSER_PASSWORD': 'admin@123!',
+    'POSTGRES_DB': 'app',
+    'POSTGRES_PASSWORD': 'postgres',
+    'POSTGRES_PORT': 5432,
+    'POSTGRES_SERVER': 'localhost',
+    'POSTGRES_USER': 'postgres',
+    'PROJECT_NAME': 'Backend '
+                    'API '
+                    'by '
+                    'Venkatesh',
+    'SECRET_KEY': 'CMFlSIgyJxDcvsXnoi8fFuxg0BkRX7DGx0Mj6ivMVJo',
+    'SENTRY_DSN': None,
+    'SMTP_HOST': 'localhost',
+    'SMTP_PASSWORD': '12345!',
+    'SMTP_PORT': 587,
+    'SMTP_SSL': False,
+    'SMTP_TLS': True,
+    'SMTP_USER': 'vbolla',
+    'USERS_OPEN_REGISTRATION': True}
+
+==> 2024-03-22 11:06:45 - C:\Users\vbolla\ReactJS\TypeScript\backend\app\core\config.py:130 (<module>) - Settings with attributes: {   'ACCESS_TOKEN_EXPIRE_MINUTES': 11520,
+    'API_PREFIX_STR': '/api/v1',
+    'BACKEND_CORS_ORIGINS': [   Url('http://localhost/'),
+                                Url('http://localhost:5173/'),
+                                Url('https://localhost/'),
+                                Url('https://localhost:5173/'),
+                                Url('http://localhost.venkatesh.com/')],
+    'DEBUG_LOG': True,
+    'DEBUG_LOG_FILE_NAME': './logs/backend_debug_log.txt',
+    'DEBUG_LOG_IN_FILE': True,
+    'DEBUG_LOG_ON_CONSOLE': True,
+    'DOMAIN': 'localhost',
+    'EMAILS_FROM_EMAIL': 'info@example.com',
+    'EMAILS_FROM_NAME': 'Backend '
+                        'API '
+                        'by '
+                        'Venkatesh',
+    'EMAIL_RESET_TOKEN_EXPIRE_HOURS': 48,
+    'EMAIL_TEST_USER': 'test@example.com',
+    'ENVIRONMENT': 'local',
+    'FIRST_SUPERUSER': 'admin@example.com',
+    'FIRST_SUPERUSER_PASSWORD': 'admin@123!',
+    'POSTGRES_DB': 'app',
+    'POSTGRES_PASSWORD': 'postgres',
+    'POSTGRES_PORT': 5432,
+    'POSTGRES_SERVER': 'localhost',
+    'POSTGRES_USER': 'postgres',
+    'PROJECT_NAME': 'Backend '
+                    'API '
+                    'by '
+                    'Venkatesh',
+    'SECRET_KEY': 'CMFlSIgyJxDcvsXnoi8fFuxg0BkRX7DGx0Mj6ivMVJo',
+    'SENTRY_DSN': None,
+    'SMTP_HOST': 'localhost',
+    'SMTP_PASSWORD': '12345!',
+    'SMTP_PORT': 587,
+    'SMTP_SSL': False,
+    'SMTP_TLS': True,
+    'SMTP_USER': 'vbolla',
+    'USERS_OPEN_REGISTRATION': True}
+
+==> 2024-03-22 11:07:17 - C:\Users\vbolla\ReactJS\TypeScript\backend\app\core\config.py:130 (<module>) - Settings with attributes: {   'ACCESS_TOKEN_EXPIRE_MINUTES': 11520,
+    'API_PREFIX_STR': '/api/v1',
+    'BACKEND_CORS_ORIGINS': [   Url('http://localhost/'),
+                                Url('http://localhost:5173/'),
+                                Url('https://localhost/'),
+                                Url('https://localhost:5173/'),
+                                Url('http://localhost.venkatesh.com/')],
+    'DEBUG_LOG': True,
+    'DEBUG_LOG_FILE_NAME': './logs/backend_debug_log.txt',
+    'DEBUG_LOG_IN_FILE': True,
+    'DEBUG_LOG_ON_CONSOLE': True,
+    'DOMAIN': 'localhost',
+    'EMAILS_FROM_EMAIL': 'info@example.com',
+    'EMAILS_FROM_NAME': 'Backend '
+                        'API '
+                        'by '
+                        'Venkatesh',
+    'EMAIL_RESET_TOKEN_EXPIRE_HOURS': 48,
+    'EMAIL_TEST_USER': 'test@example.com',
+    'ENVIRONMENT': 'local',
+    'FIRST_SUPERUSER': 'admin@example.com',
+    'FIRST_SUPERUSER_PASSWORD': 'admin@123!',
+    'POSTGRES_DB': 'app',
+    'POSTGRES_PASSWORD': 'postgres',
+    'POSTGRES_PORT': 5432,
+    'POSTGRES_SERVER': 'localhost',
+    'POSTGRES_USER': 'postgres',
+    'PROJECT_NAME': 'Backend '
+                    'API '
+                    'by '
+                    'Venkatesh',
+    'SECRET_KEY': 'CMFlSIgyJxDcvsXnoi8fFuxg0BkRX7DGx0Mj6ivMVJo',
+    'SENTRY_DSN': None,
+    'SMTP_HOST': 'localhost',
+    'SMTP_PASSWORD': '12345!',
+    'SMTP_PORT': 587,
+    'SMTP_SSL': False,
+    'SMTP_TLS': True,
+    'SMTP_USER': 'vbolla',
+    'USERS_OPEN_REGISTRATION': True}
+
+==> 2024-03-22 11:19:07 - C:\Users\vbolla\ReactJS\TypeScript\backend\app\core\config.py:130 (<module>) - Settings with attributes: {   'ACCESS_TOKEN_EXPIRE_MINUTES': 11520,
+    'API_PREFIX_STR': '/api/v1',
+    'BACKEND_CORS_ORIGINS': [   Url('http://localhost/'),
+                                Url('http://localhost:5173/'),
+                                Url('https://localhost/'),
+                                Url('https://localhost:5173/'),
+                                Url('http://localhost.venkatesh.com/')],
+    'DEBUG_LOG': True,
+    'DEBUG_LOG_FILE_NAME': './logs/backend_debug_log.txt',
+    'DEBUG_LOG_IN_FILE': True,
+    'DEBUG_LOG_ON_CONSOLE': True,
+    'DOMAIN': 'localhost',
+    'EMAILS_FROM_EMAIL': 'info@example.com',
+    'EMAILS_FROM_NAME': 'Backend '
+                        'API '
+                        'by '
+                        'Venkatesh',
+    'EMAIL_RESET_TOKEN_EXPIRE_HOURS': 48,
+    'EMAIL_TEST_USER': 'test@example.com',
+    'ENVIRONMENT': 'local',
+    'FIRST_SUPERUSER': 'admin@example.com',
+    'FIRST_SUPERUSER_PASSWORD': 'admin@123!',
+    'POSTGRES_DB': 'app',
+    'POSTGRES_PASSWORD': 'postgres',
+    'POSTGRES_PORT': 5432,
+    'POSTGRES_SERVER': 'localhost',
+    'POSTGRES_USER': 'postgres',
+    'PROJECT_NAME': 'Backend '
+                    'API '
+                    'by '
+                    'Venkatesh',
+    'SECRET_KEY': 'CMFlSIgyJxDcvsXnoi8fFuxg0BkRX7DGx0Mj6ivMVJo',
+    'SENTRY_DSN': None,
+    'SMTP_HOST': 'localhost',
+    'SMTP_PASSWORD': '12345!',
+    'SMTP_PORT': 587,
+    'SMTP_SSL': False,
+    'SMTP_TLS': True,
+    'SMTP_USER': 'vbolla',
+    'USERS_OPEN_REGISTRATION': True}
+
+==> 2024-03-22 11:21:25 - C:\Users\vbolla\ReactJS\TypeScript\backend\app\core\config.py:130 (<module>) - Settings with attributes: {   'ACCESS_TOKEN_EXPIRE_MINUTES': 11520,
+    'API_PREFIX_STR': '/api/v1',
+    'BACKEND_CORS_ORIGINS': [   Url('http://localhost/'),
+                                Url('http://localhost:5173/'),
+                                Url('https://localhost/'),
+                                Url('https://localhost:5173/'),
+                                Url('http://localhost.venkatesh.com/')],
+    'DEBUG_LOG': True,
+    'DEBUG_LOG_FILE_NAME': './logs/backend_debug_log.txt',
+    'DEBUG_LOG_IN_FILE': True,
+    'DEBUG_LOG_ON_CONSOLE': True,
+    'DOMAIN': 'localhost',
+    'EMAILS_FROM_EMAIL': 'info@example.com',
+    'EMAILS_FROM_NAME': 'Backend '
+                        'API '
+                        'by '
+                        'Venkatesh',
+    'EMAIL_RESET_TOKEN_EXPIRE_HOURS': 48,
+    'EMAIL_TEST_USER': 'test@example.com',
+    'ENVIRONMENT': 'local',
+    'FIRST_SUPERUSER': 'admin@example.com',
+    'FIRST_SUPERUSER_PASSWORD': 'admin@123!',
+    'POSTGRES_DB': 'app',
+    'POSTGRES_PASSWORD': 'postgres',
+    'POSTGRES_PORT': 5432,
+    'POSTGRES_SERVER': 'localhost',
+    'POSTGRES_USER': 'postgres',
+    'PROJECT_NAME': 'Backend '
+                    'API '
+                    'by '
+                    'Venkatesh',
+    'SECRET_KEY': 'CMFlSIgyJxDcvsXnoi8fFuxg0BkRX7DGx0Mj6ivMVJo',
+    'SENTRY_DSN': None,
+    'SMTP_HOST': 'localhost',
+    'SMTP_PASSWORD': '12345!',
+    'SMTP_PORT': 587,
+    'SMTP_SSL': False,
+    'SMTP_TLS': True,
+    'SMTP_USER': 'vbolla',
+    'USERS_OPEN_REGISTRATION': True}
+
+==> 2024-03-22 11:22:41 - C:\Users\vbolla\ReactJS\TypeScript\backend\app\core\config.py:130 (<module>) - Settings with attributes: {   'ACCESS_TOKEN_EXPIRE_MINUTES': 11520,
+    'API_PREFIX_STR': '/api/v1',
+    'BACKEND_CORS_ORIGINS': [   Url('http://localhost/'),
+                                Url('http://localhost:5173/'),
+                                Url('https://localhost/'),
+                                Url('https://localhost:5173/'),
+                                Url('http://localhost.venkatesh.com/')],
+    'DEBUG_LOG': True,
+    'DEBUG_LOG_FILE_NAME': './logs/backend_debug_log.txt',
+    'DEBUG_LOG_IN_FILE': True,
+    'DEBUG_LOG_ON_CONSOLE': True,
+    'DOMAIN': 'localhost',
+    'EMAILS_FROM_EMAIL': 'info@example.com',
+    'EMAILS_FROM_NAME': 'Backend '
+                        'API '
+                        'by '
+                        'Venkatesh',
+    'EMAIL_RESET_TOKEN_EXPIRE_HOURS': 48,
+    'EMAIL_TEST_USER': 'test@example.com',
+    'ENVIRONMENT': 'local',
+    'FIRST_SUPERUSER': 'admin@example.com',
+    'FIRST_SUPERUSER_PASSWORD': 'admin@123!',
+    'POSTGRES_DB': 'app',
+    'POSTGRES_PASSWORD': 'postgres',
+    'POSTGRES_PORT': 5432,
+    'POSTGRES_SERVER': 'localhost',
+    'POSTGRES_USER': 'postgres',
+    'PROJECT_NAME': 'Backend '
+                    'API '
+                    'by '
+                    'Venkatesh',
+    'SECRET_KEY': 'CMFlSIgyJxDcvsXnoi8fFuxg0BkRX7DGx0Mj6ivMVJo',
+    'SENTRY_DSN': None,
+    'SMTP_HOST': 'localhost',
+    'SMTP_PASSWORD': '12345!',
+    'SMTP_PORT': 587,
+    'SMTP_SSL': False,
+    'SMTP_TLS': True,
+    'SMTP_USER': 'vbolla',
+    'USERS_OPEN_REGISTRATION': True}
+
+==> 2024-03-22 11:28:59 - C:\Users\vbolla\ReactJS\TypeScript\backend\app\core\config.py:130 (<module>) - Settings with attributes: {   'ACCESS_TOKEN_EXPIRE_MINUTES': 11520,
+    'API_PREFIX_STR': '/api/v1',
+    'BACKEND_CORS_ORIGINS': [   Url('http://localhost/'),
+                                Url('http://localhost:5173/'),
+                                Url('https://localhost/'),
+                                Url('https://localhost:5173/'),
+                                Url('http://localhost.venkatesh.com/')],
+    'DEBUG_LOG': True,
+    'DEBUG_LOG_FILE_NAME': './logs/backend_debug_log.txt',
+    'DEBUG_LOG_IN_FILE': True,
+    'DEBUG_LOG_ON_CONSOLE': True,
+    'DOMAIN': 'localhost',
+    'EMAILS_FROM_EMAIL': 'info@example.com',
+    'EMAILS_FROM_NAME': 'Backend '
+                        'API '
+                        'by '
+                        'Venkatesh',
+    'EMAIL_RESET_TOKEN_EXPIRE_HOURS': 48,
+    'EMAIL_TEST_USER': 'test@example.com',
+    'ENVIRONMENT': 'local',
+    'FIRST_SUPERUSER': 'admin@example.com',
+    'FIRST_SUPERUSER_PASSWORD': 'admin@123!',
+    'POSTGRES_DB': 'app',
+    'POSTGRES_PASSWORD': 'postgres',
+    'POSTGRES_PORT': 5432,
+    'POSTGRES_SERVER': 'localhost',
+    'POSTGRES_USER': 'postgres',
+    'PROJECT_NAME': 'Backend '
+                    'API '
+                    'by '
+                    'Venkatesh',
+    'SECRET_KEY': 'CMFlSIgyJxDcvsXnoi8fFuxg0BkRX7DGx0Mj6ivMVJo',
+    'SENTRY_DSN': None,
+    'SMTP_HOST': 'localhost',
+    'SMTP_PASSWORD': '12345!',
+    'SMTP_PORT': 587,
+    'SMTP_SSL': False,
+    'SMTP_TLS': True,
+    'SMTP_USER': 'vbolla',
+    'USERS_OPEN_REGISTRATION': True}
+
+==> 2024-03-22 11:29:42 - C:\Users\vbolla\ReactJS\TypeScript\backend\app\core\config.py:130 (<module>) - Settings with attributes: {   'ACCESS_TOKEN_EXPIRE_MINUTES': 11520,
+    'API_PREFIX_STR': '/api/v1',
+    'BACKEND_CORS_ORIGINS': [   Url('http://localhost/'),
+                                Url('http://localhost:5173/'),
+                                Url('https://localhost/'),
+                                Url('https://localhost:5173/'),
+                                Url('http://localhost.venkatesh.com/')],
+    'DEBUG_LOG': True,
+    'DEBUG_LOG_FILE_NAME': './logs/backend_debug_log.txt',
+    'DEBUG_LOG_IN_FILE': True,
+    'DEBUG_LOG_ON_CONSOLE': True,
+    'DOMAIN': 'localhost',
+    'EMAILS_FROM_EMAIL': 'info@example.com',
+    'EMAILS_FROM_NAME': 'Backend '
+                        'API '
+                        'by '
+                        'Venkatesh',
+    'EMAIL_RESET_TOKEN_EXPIRE_HOURS': 48,
+    'EMAIL_TEST_USER': 'test@example.com',
+    'ENVIRONMENT': 'local',
+    'FIRST_SUPERUSER': 'admin@example.com',
+    'FIRST_SUPERUSER_PASSWORD': 'admin@123!',
+    'POSTGRES_DB': 'app',
+    'POSTGRES_PASSWORD': 'postgres',
+    'POSTGRES_PORT': 5432,
+    'POSTGRES_SERVER': 'localhost',
+    'POSTGRES_USER': 'postgres',
+    'PROJECT_NAME': 'Backend '
+                    'API '
+                    'by '
+                    'Venkatesh',
+    'SECRET_KEY': 'CMFlSIgyJxDcvsXnoi8fFuxg0BkRX7DGx0Mj6ivMVJo',
+    'SENTRY_DSN': None,
+    'SMTP_HOST': 'localhost',
+    'SMTP_PASSWORD': '12345!',
+    'SMTP_PORT': 587,
+    'SMTP_SSL': False,
+    'SMTP_TLS': True,
+    'SMTP_USER': 'vbolla',
+    'USERS_OPEN_REGISTRATION': True}
+
+==> 2024-03-22 11:35:46 - C:\Users\vbolla\ReactJS\TypeScript\backend\app\core\config.py:130 (<module>) - Settings with attributes: {   'ACCESS_TOKEN_EXPIRE_MINUTES': 11520,
+    'API_PREFIX_STR': '/api/v1',
+    'BACKEND_CORS_ORIGINS': [   Url('http://localhost/'),
+                                Url('http://localhost:5173/'),
+                                Url('https://localhost/'),
+                                Url('https://localhost:5173/'),
+                                Url('http://localhost.venkatesh.com/')],
+    'DEBUG_LOG': True,
+    'DEBUG_LOG_FILE_NAME': './logs/backend_debug_log.txt',
+    'DEBUG_LOG_IN_FILE': True,
+    'DEBUG_LOG_ON_CONSOLE': True,
+    'DOMAIN': 'localhost',
+    'EMAILS_FROM_EMAIL': 'info@example.com',
+    'EMAILS_FROM_NAME': 'Backend '
+                        'API '
+                        'by '
+                        'Venkatesh',
+    'EMAIL_RESET_TOKEN_EXPIRE_HOURS': 48,
+    'EMAIL_TEST_USER': 'test@example.com',
+    'ENVIRONMENT': 'local',
+    'FIRST_SUPERUSER': 'admin@example.com',
+    'FIRST_SUPERUSER_PASSWORD': 'admin@123!',
+    'POSTGRES_DB': 'app',
+    'POSTGRES_PASSWORD': 'postgres',
+    'POSTGRES_PORT': 5432,
+    'POSTGRES_SERVER': 'localhost',
+    'POSTGRES_USER': 'postgres',
+    'PROJECT_NAME': 'Backend '
+                    'API '
+                    'by '
+                    'Venkatesh',
+    'SECRET_KEY': 'CMFlSIgyJxDcvsXnoi8fFuxg0BkRX7DGx0Mj6ivMVJo',
+    'SENTRY_DSN': None,
+    'SMTP_HOST': 'localhost',
+    'SMTP_PASSWORD': '12345!',
+    'SMTP_PORT': 587,
+    'SMTP_SSL': False,
+    'SMTP_TLS': True,
+    'SMTP_USER': 'vbolla',
+    'USERS_OPEN_REGISTRATION': True}
+
+==> 2024-03-22 11:35:51 - C:\Users\vbolla\ReactJS\TypeScript\backend\app\core\config.py:130 (<module>) - Settings with attributes: {   'ACCESS_TOKEN_EXPIRE_MINUTES': 11520,
+    'API_PREFIX_STR': '/api/v1',
+    'BACKEND_CORS_ORIGINS': [   Url('http://localhost/'),
+                                Url('http://localhost:5173/'),
+                                Url('https://localhost/'),
+                                Url('https://localhost:5173/'),
+                                Url('http://localhost.venkatesh.com/')],
+    'DEBUG_LOG': True,
+    'DEBUG_LOG_FILE_NAME': './logs/backend_debug_log.txt',
+    'DEBUG_LOG_IN_FILE': True,
+    'DEBUG_LOG_ON_CONSOLE': True,
+    'DOMAIN': 'localhost',
+    'EMAILS_FROM_EMAIL': 'info@example.com',
+    'EMAILS_FROM_NAME': 'Backend '
+                        'API '
+                        'by '
+                        'Venkatesh',
+    'EMAIL_RESET_TOKEN_EXPIRE_HOURS': 48,
+    'EMAIL_TEST_USER': 'test@example.com',
+    'ENVIRONMENT': 'local',
+    'FIRST_SUPERUSER': 'admin@example.com',
+    'FIRST_SUPERUSER_PASSWORD': 'admin@123!',
+    'POSTGRES_DB': 'app',
+    'POSTGRES_PASSWORD': 'postgres',
+    'POSTGRES_PORT': 5432,
+    'POSTGRES_SERVER': 'localhost',
+    'POSTGRES_USER': 'postgres',
+    'PROJECT_NAME': 'Backend '
+                    'API '
+                    'by '
+                    'Venkatesh',
+    'SECRET_KEY': 'CMFlSIgyJxDcvsXnoi8fFuxg0BkRX7DGx0Mj6ivMVJo',
+    'SENTRY_DSN': None,
+    'SMTP_HOST': 'localhost',
+    'SMTP_PASSWORD': '12345!',
+    'SMTP_PORT': 587,
+    'SMTP_SSL': False,
+    'SMTP_TLS': True,
+    'SMTP_USER': 'vbolla',
+    'USERS_OPEN_REGISTRATION': True}
+
+==> 2024-03-26 18:07:38 - C:\Users\vbolla\ReactJS\TypeScript\backend\app\core\config.py:130 (<module>) - Settings with attributes: {   'ACCESS_TOKEN_EXPIRE_MINUTES': 11520,
+    'API_PREFIX_STR': '/api/v2',
+    'BACKEND_CORS_ORIGINS': [   Url('http://localhost/'),
+                                Url('http://localhost:5173/'),
+                                Url('https://localhost/'),
+                                Url('https://localhost:5173/'),
+                                Url('http://localhost.venkatesh.com/')],
+    'DEBUG_LOG': True,
+    'DEBUG_LOG_FILE_NAME': './logs/backend_debug_log.txt',
+    'DEBUG_LOG_IN_FILE': True,
+    'DEBUG_LOG_ON_CONSOLE': True,
+    'DOMAIN': 'localhost',
+    'EMAILS_FROM_EMAIL': 'info@example.com',
+    'EMAILS_FROM_NAME': 'Backend '
+                        'API '
+                        'by '
+                        'Venkatesh',
+    'EMAIL_RESET_TOKEN_EXPIRE_HOURS': 48,
+    'EMAIL_TEST_USER': 'test@example.com',
+    'ENVIRONMENT': 'local',
+    'FIRST_SUPERUSER': 'root',
+    'FIRST_SUPERUSER_PASSWORD': 'root@123!',
+    'POSTGRES_DB': 'app',
+    'POSTGRES_PASSWORD': 'postgres',
+    'POSTGRES_PORT': 5432,
+    'POSTGRES_SERVER': 'localhost',
+    'POSTGRES_USER': 'postgres',
+    'PROJECT_NAME': 'Backend '
+                    'API '
+                    'by '
+                    'Venkatesh',
+    'SECRET_KEY': 'ILQk7k3Scov7LpyG8M56zwzOgY5rErn1mibxpAZDosg',
+    'SENTRY_DSN': None,
+    'SMTP_HOST': 'localhost',
+    'SMTP_PASSWORD': '12345!',
+    'SMTP_PORT': 587,
+    'SMTP_SSL': False,
+    'SMTP_TLS': True,
+    'SMTP_USER': 'vbolla',
+    'USERS_OPEN_REGISTRATION': True}
+
+==> 2024-03-26 18:07:38 - C:\Users\vbolla\ReactJS\TypeScript\backend\app\core\db.py:9 (<module>) - postgresql+psycopg2://postgres:postgres@localhost:5432/app
+
+==> 2024-03-26 18:07:45 - C:\Users\vbolla\ReactJS\TypeScript\backend\app\crud.py:38 (get_user_by_email) - root
+
+==> 2024-03-26 18:07:46 - C:\Users\vbolla\ReactJS\TypeScript\backend\app\api\routes\login.py:35 (login_access_token) - User with attributes: {   '_sa_instance_state': <sqlalchemy.orm.state.InstanceState object at 0x000001EDC23A70B0>,
+    'age': None,
+    'email': 'root',
+    'first_name': None,
+    'gender': None,
+    'hashed_password': '$2b$12$ngoritMgQUkYzXfZ/8CXVuVUpxAo.Erpwuby9s17sdzSGwY/ccEbC',
+    'id': 2,
+    'is_active': False,
+    'is_superuser': True,
+    'last_name': None,
+    'middle_name': None,
+    'role': <Role.unassigned: 'unassigned'>,
+    'uuid': UUID('cb1dfe77-bfac-4308-84c7-31b05a65f934')}
+
+==> 2024-03-26 18:08:41 - C:\Users\vbolla\ReactJS\TypeScript\backend\app\crud.py:38 (get_user_by_email) - root
+
+==> 2024-03-26 18:08:41 - C:\Users\vbolla\ReactJS\TypeScript\backend\app\api\routes\login.py:35 (login_access_token) - User with attributes: {   '_sa_instance_state': <sqlalchemy.orm.state.InstanceState object at 0x000001EDC2369F10>,
+    'age': None,
+    'email': 'root',
+    'first_name': None,
+    'gender': None,
+    'hashed_password': '$2b$12$ngoritMgQUkYzXfZ/8CXVuVUpxAo.Erpwuby9s17sdzSGwY/ccEbC',
+    'id': 2,
+    'is_active': False,
+    'is_superuser': True,
+    'last_name': None,
+    'middle_name': None,
+    'role': <Role.unassigned: 'unassigned'>,
+    'uuid': UUID('cb1dfe77-bfac-4308-84c7-31b05a65f934')}
+
+==> 2024-03-26 18:11:39 - C:\Users\vbolla\ReactJS\TypeScript\backend\app\core\config.py:130 (<module>) - Settings with attributes: {   'ACCESS_TOKEN_EXPIRE_MINUTES': 11520,
+    'API_PREFIX_STR': '/api/v2',
+    'BACKEND_CORS_ORIGINS': [   Url('http://localhost/'),
+                                Url('http://localhost:5173/'),
+                                Url('https://localhost/'),
+                                Url('https://localhost:5173/'),
+                                Url('http://localhost.venkatesh.com/')],
+    'DEBUG_LOG': True,
+    'DEBUG_LOG_FILE_NAME': './logs/backend_debug_log.txt',
+    'DEBUG_LOG_IN_FILE': True,
+    'DEBUG_LOG_ON_CONSOLE': True,
+    'DOMAIN': 'localhost',
+    'EMAILS_FROM_EMAIL': 'info@example.com',
+    'EMAILS_FROM_NAME': 'Backend '
+                        'API '
+                        'by '
+                        'Venkatesh',
+    'EMAIL_RESET_TOKEN_EXPIRE_HOURS': 48,
+    'EMAIL_TEST_USER': 'test@example.com',
+    'ENVIRONMENT': 'local',
+    'FIRST_SUPERUSER': 'root',
+    'FIRST_SUPERUSER_PASSWORD': 'root@123!',
+    'POSTGRES_DB': 'app',
+    'POSTGRES_PASSWORD': 'postgres',
+    'POSTGRES_PORT': 5432,
+    'POSTGRES_SERVER': 'localhost',
+    'POSTGRES_USER': 'postgres',
+    'PROJECT_NAME': 'Backend '
+                    'API '
+                    'by '
+                    'Venkatesh',
+    'SECRET_KEY': 'a_2H2J1a3N-64Ccw1n9PPkpF1O7c5wJgInaqc2Fjezk',
+    'SENTRY_DSN': None,
+    'SMTP_HOST': 'localhost',
+    'SMTP_PASSWORD': '12345!',
+    'SMTP_PORT': 587,
+    'SMTP_SSL': False,
+    'SMTP_TLS': True,
+    'SMTP_USER': 'vbolla',
+    'USERS_OPEN_REGISTRATION': True}
+
+==> 2024-03-26 18:11:39 - C:\Users\vbolla\ReactJS\TypeScript\backend\app\core\db.py:9 (<module>) - postgresql+psycopg2://postgres:postgres@localhost:5432/app
+
+==> 2024-03-26 18:12:24 - C:\Users\vbolla\ReactJS\TypeScript\backend\app\core\config.py:130 (<module>) - Settings with attributes: {   'ACCESS_TOKEN_EXPIRE_MINUTES': 11520,
+    'API_PREFIX_STR': '/api/v2',
+    'BACKEND_CORS_ORIGINS': [   Url('http://localhost/'),
+                                Url('http://localhost:5173/'),
+                                Url('https://localhost/'),
+                                Url('https://localhost:5173/'),
+                                Url('http://localhost.venkatesh.com/')],
+    'DEBUG_LOG': True,
+    'DEBUG_LOG_FILE_NAME': './logs/backend_debug_log.txt',
+    'DEBUG_LOG_IN_FILE': True,
+    'DEBUG_LOG_ON_CONSOLE': True,
+    'DOMAIN': 'localhost',
+    'EMAILS_FROM_EMAIL': 'info@example.com',
+    'EMAILS_FROM_NAME': 'Backend '
+                        'API '
+                        'by '
+                        'Venkatesh',
+    'EMAIL_RESET_TOKEN_EXPIRE_HOURS': 48,
+    'EMAIL_TEST_USER': 'test@example.com',
+    'ENVIRONMENT': 'local',
+    'FIRST_SUPERUSER': 'root',
+    'FIRST_SUPERUSER_PASSWORD': 'root@123!',
+    'POSTGRES_DB': 'app',
+    'POSTGRES_PASSWORD': 'postgres',
+    'POSTGRES_PORT': 5432,
+    'POSTGRES_SERVER': 'localhost',
+    'POSTGRES_USER': 'postgres',
+    'PROJECT_NAME': 'Backend '
+                    'API '
+                    'by '
+                    'Venkatesh',
+    'SECRET_KEY': 'Y8LedmKBn5yz208HdoopcigrkqssRKM5GHwSQ1pfJ9c',
+    'SENTRY_DSN': None,
+    'SMTP_HOST': 'localhost',
+    'SMTP_PASSWORD': '12345!',
+    'SMTP_PORT': 587,
+    'SMTP_SSL': False,
+    'SMTP_TLS': True,
+    'SMTP_USER': 'vbolla',
+    'USERS_OPEN_REGISTRATION': True}
+
+==> 2024-03-26 18:12:24 - C:\Users\vbolla\ReactJS\TypeScript\backend\app\core\db.py:9 (<module>) - postgresql+psycopg2://postgres:postgres@localhost:5432/app
+
+==> 2024-03-26 18:12:27 - C:\Users\vbolla\ReactJS\TypeScript\backend\app\crud.py:38 (get_user_by_email) - root
+
+==> 2024-03-26 18:12:27 - C:\Users\vbolla\ReactJS\TypeScript\backend\app\api\routes\login.py:35 (login_access_token) - User with attributes: {   '_sa_instance_state': <sqlalchemy.orm.state.InstanceState object at 0x000001B39E4BF170>,
+    'age': None,
+    'email': 'root',
+    'first_name': None,
+    'gender': None,
+    'hashed_password': '$2b$12$ngoritMgQUkYzXfZ/8CXVuVUpxAo.Erpwuby9s17sdzSGwY/ccEbC',
+    'id': 2,
+    'is_active': True,
+    'is_superuser': True,
+    'last_name': None,
+    'middle_name': None,
+    'role': <Role.unassigned: 'unassigned'>,
+    'uuid': UUID('cb1dfe77-bfac-4308-84c7-31b05a65f934')}
+
+==> 2024-03-26 18:13:13 - C:\Users\vbolla\ReactJS\TypeScript\backend\app\crud.py:38 (get_user_by_email) - admin@example.com
+
+==> 2024-03-26 18:13:13 - C:\Users\vbolla\ReactJS\TypeScript\backend\app\api\routes\login.py:35 (login_access_token) - User with attributes: {   '_sa_instance_state': <sqlalchemy.orm.state.InstanceState object at 0x000001B39E4BFC50>,
+    'age': None,
+    'email': 'admin@example.com',
+    'first_name': None,
+    'gender': None,
+    'hashed_password': '$2b$12$hgJAxuDteOm.VZI0He4KUuDzXXUqdAkc98PKbIOzl.wiwkB26JVzi',
+    'id': 1,
+    'is_active': False,
+    'is_superuser': True,
+    'last_name': None,
+    'middle_name': None,
+    'role': <Role.unassigned: 'unassigned'>,
+    'uuid': UUID('d1ead5ab-d4f1-4c16-9ee0-c3bdf728fc86')}
+
+==> 2024-03-26 18:13:30 - C:\Users\vbolla\ReactJS\TypeScript\backend\app\crud.py:38 (get_user_by_email) - admin@example.com
+
+==> 2024-03-26 18:13:30 - C:\Users\vbolla\ReactJS\TypeScript\backend\app\api\routes\login.py:35 (login_access_token) - None
+
+==> 2024-03-26 18:13:57 - C:\Users\vbolla\ReactJS\TypeScript\backend\app\crud.py:38 (get_user_by_email) - admin@example.com
+
+==> 2024-03-26 18:13:57 - C:\Users\vbolla\ReactJS\TypeScript\backend\app\api\routes\login.py:35 (login_access_token) - User with attributes: {   '_sa_instance_state': <sqlalchemy.orm.state.InstanceState object at 0x000001B39E41E6F0>,
+    'age': None,
+    'email': 'admin@example.com',
+    'first_name': None,
+    'gender': None,
+    'hashed_password': '$2b$12$ngoritMgQUkYzXfZ/8CXVuVUpxAo.Erpwuby9s17sdzSGwY/ccEbC',
+    'id': 1,
+    'is_active': False,
+    'is_superuser': True,
+    'last_name': None,
+    'middle_name': None,
+    'role': <Role.unassigned: 'unassigned'>,
+    'uuid': UUID('d1ead5ab-d4f1-4c16-9ee0-c3bdf728fc86')}
+
+==> 2024-03-26 18:14:40 - C:\Users\vbolla\ReactJS\TypeScript\backend\app\crud.py:38 (get_user_by_email) - admin@example.com
+
+==> 2024-03-26 18:14:40 - C:\Users\vbolla\ReactJS\TypeScript\backend\app\api\routes\login.py:35 (login_access_token) - User with attributes: {   '_sa_instance_state': <sqlalchemy.orm.state.InstanceState object at 0x000001B39E4F8B30>,
+    'age': None,
+    'email': 'admin@example.com',
+    'first_name': None,
+    'gender': None,
+    'hashed_password': '$2b$12$ngoritMgQUkYzXfZ/8CXVuVUpxAo.Erpwuby9s17sdzSGwY/ccEbC',
+    'id': 1,
+    'is_active': True,
+    'is_superuser': True,
+    'last_name': None,
+    'middle_name': None,
+    'role': <Role.unassigned: 'unassigned'>,
+    'uuid': UUID('d1ead5ab-d4f1-4c16-9ee0-c3bdf728fc86')}
+

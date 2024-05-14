@@ -4,7 +4,7 @@ from sqlmodel import Session, select
 
 from app.core.security import get_password_hash, verify_password
 from app.debug_print.main import debug_print
-from app.models import Item, ItemCreate, User, UserCreate, UserUpdate
+from app.models.models import Item, ItemCreate, User, UserCreate, UserUpdate
 
 
 def create_user(*, session: Session, user_create: UserCreate) -> User:
