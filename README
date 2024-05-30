@@ -1,0 +1,7 @@
+Readme:
+-------
+Steps to start the backend+swagger server locally
+   Step1: setup postgresql server and pgadmin4
+   Step2: update environmental variables in app/.env accordingly
+   Step3: srouce ./prestart.sh
+   Step4: source ./start.sh
