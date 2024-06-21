@@ -4,7 +4,7 @@ from sqlmodel import Session, select
 
 from app.core.security import get_password_hash, verify_password
 from app.debug_print.main import debug_print
-from app.models.models import Item, ItemCreate, User, UserCreate, UserUpdate
+from app.models.models import Item, ItemCreate, User, UserCreate, UserUpdate, Patient, PatientCreate
 
 
 def create_user(*, session: Session, user_create: UserCreate) -> User:
@@ -56,3 +56,20 @@ def create_item(*, session: Session, item_in: ItemCreate, owner_id: int) -> Item
     session.commit()
     session.refresh(db_item)
     return db_item
+
+def create_patient(*, session: Session, patient_create: PatientCreate) -> Patient:
+    debug_print("patient_create:", patient_create)
+    db_obj = Patient.model_validate(
+        patient_create, update={"hashed_password": get_password_hash(patient_create.password)}
+    )
+    debug_print("db_obj:", db_obj)
+    session.add(db_obj)
+    session.commit()
+    session.refresh(db_obj)
+    return db_obj
+
+def get_patient_by_email(*, session: Session, email: str) -> Patient | None:
+    debug_print(email)
+    statement = select(Patient).where(Patient.email == email)
+    session_user = session.exec(statement).first()
+    return session_user

@@ -108,7 +108,7 @@ class UpdatePassword(SQLModel):
 # Database model, database table inferred from class name
 class User(UserBase, table=True):
     id: int | None = Field(default=None, primary_key=True)
-     # using feild from dataclasses and init=False enforce the rule not porivde id as part of initialisation
+     # using field from dataclasses and init=False enforce the rule not provide id as part of initialization
     uuid: UUID = field(init=False, default_factory=uuid4, repr=False)
     hashed_password: str
     is_active: bool = True
@@ -128,11 +128,38 @@ class UsersOut(SQLModel):
 
 class Patient(UserBase, table=True):
     pid: int | None = Field(default=None, primary_key=True)
-     # using feild from dataclasses and init=False enforce the rule not porivde id as part of initialisation
+     # using field from dataclasses and init=False enforce the rule not provide id as part of initialization
     uuid: UUID = field(init=False, default_factory=uuid4, repr=False)
     hashed_password: str
     is_active: bool = True
     role: Role = Role.patient
+
+class PatientOut(Patient):
+    pid: int
+    uuid: UUID
+    role: Role
+    is_active: bool
+
+class PatientsOut(SQLModel):
+    data: list[PatientOut]
+    count: int
+
+class PatientCreate(UserBase):
+    password: str = Field(min_length=8, max_length=12)
+    class Config:
+        schema_extra = {
+            'examples': [
+                {
+                    'firstname': 'John',
+                    'lastname': 'Doe',
+                    'email': 'john.doe@gmail.com',
+                    'gender': 'male',
+                    'password': 'DoeJohn!',
+                    'age': '29',
+                    'password': 'john@Doe8877'
+                }
+            ]
+        }
 
 class LabSupportedTestsBase(SQLModel):
     cbc: bool
