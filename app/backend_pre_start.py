@@ -1,3 +1,7 @@
+import os.path
+import sys
+sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
+
 import logging
 
 from sqlalchemy import Engine
@@ -9,7 +13,7 @@ from app.core.db import engine
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-max_tries = 60 * 5  # 5 minutes
+max_tries = 2 * 5  # 5 minutes
 wait_seconds = 1
 
 

@@ -1,0 +1,45 @@
+version: "3.8"
+
+services:
+  fastapi:
+    build: .
+    container_name: fastapi-container
+    networks:
+      backend_network:
+        ipv4_address: 192.168.100.1
+    expose:
+      - "8000"
+    depends_on:
+      - postgres
+
+  postgres:
+    image: postgres:13
+    container_name: postgres-container
+    environment:
+      POSTGRES_DB: postgresDb
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+    networks:
+      backend_network:
+        ipv4_address: 192.168.100.2
+    ports:
+      - "5432:5432"
+
+  nginx:
+    image: nginx:latest
+    container_name: nginx-container
+    volumes:
+      - ./nginx.conf:/etc/nginx/conf.d/default.conf
+    networks:
+      backend_network:
+        ipv4_address: 192.168.100.3
+    ports:
+      - "80:80"
+    depends_on:
+      - fastapi
+
+networks:
+  backend_network:
+    ipam:
+      config:
+        - subnet: 192.168.100.0/24
